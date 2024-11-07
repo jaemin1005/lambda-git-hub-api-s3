@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.686.0",
+    "@octokit/rest": "^21.0.2"
+  }
+}
